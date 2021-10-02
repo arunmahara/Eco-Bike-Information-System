@@ -8,7 +8,7 @@ public class BinarySearch {
         
         int start_index = 0;
         int end_index = sortedArray.length - 1;
-        int mid_index;
+        int mid_index = 0;
         
         while (start_index <= end_index){
             mid_index = (start_index + end_index) / 2;
