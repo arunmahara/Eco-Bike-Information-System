@@ -1,2 +1,2 @@
-# Eco-Bike-Information-Sytem
+# Eco-Bike-Information-System
 Inventory System for bike store
